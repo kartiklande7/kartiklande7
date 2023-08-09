@@ -1,5 +1,5 @@
 <p>👋 Hi there! I'm Kartik Lande, a Machine Learning enthusiast on a journey to turn data into meaningful insights.</p>
-
+  
 <h2>About Me</h2>
 <p>🎓 Currently pursuing my Master's in Information Systems at Santa Clara University, I've had the privilege of gaining experience across different corners of the globe.</p>
 <p>💡 My passion lies in crafting AI-powered solutions that make a real-world impact. During my time at Gilead Sciences, I built a dynamic classification model to boost patient retention. As a Machine Learning Engineer at Quantiphi Mumbai, I brought automation magic to various domains, from healthcare to manufacturing.</p>
@@ -8,7 +8,8 @@
 <h2>Achievements</h2>
 <p>🌟 My work has earned me an Innovation Award and a Think Tank Award from Quantiphi. I'm always hungry to learn and share my knowledge in the dynamic world of Machine Learning.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kartiklande5351ba175/)]
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kartiklande5351ba175/)](https://www.linkedin.com/in/kartiklande5351ba175/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:klande@scu.edu)](mailto:klande@scu.edu)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartiklande7](https://github.com/kartiklande7)
@@ -17,7 +18,7 @@
 
 - 📫 How to reach me **klande@scu.edu** or **kartiklande7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kartiklande5351ba175/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/kartiklande5351ba175/](https://www.linkedin.com/in/kartiklande5351ba175/)
 
 - ⚡ Fun fact ** I can't resist a good puzzle 😄 **
 
