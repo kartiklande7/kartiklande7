@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi there! 👋 I'm Kartik Lande</h1>
+<h1 align="center">Hi there! 👋 I'm Kartik</h1>
 <p align="center">
   <strong>A Machine Learning enthusiast on a journey to turn data into meaningful insights.</strong>
 </p>
@@ -7,8 +7,8 @@
 <!-- About Me Section -->
 <h2>About Me</h2>
 <p>🎓 Currently pursuing my Master's in Information Systems at Santa Clara University, I've had the privilege of gaining experience across different corners of the globe.</p>
-<p>💡 My passion lies in crafting AI-powered solutions that make a real-world impact. During my time at Gilead Sciences, I built a dynamic classification model to boost patient retention. As a Machine Learning Engineer at Quantiphi, I brought automation magic to various domains, from healthcare to manufacturing.</p>
-<p>🚀 I'm also an AWS Certified Solutions Architect – Associate, passionate about architecting smart and efficient solutions. My work has earned me an Innovation Award and a Think Tank Award from Quantiphi. I'm always hungry to learn and share my knowledge in the dynamic world of Machine Learning.</p>
+<p>💡 During my time at Gilead Sciences, I built a dynamic classification model to boost patient retention. As a Machine Learning Engineer at Quantiphi, I brought automation magic to various domains, from healthcare to manufacturing.</p>
+<p>🚀 I'm also an AWS Certified Solutions Architect – Associate, passionate about architecting smart and efficient solutions. My work has earned me an Innovation Award and a Think Tank Award from Quantiphi.</p>
 
 <!-- Connect Section -->
 <h2>Let's Connect!</h2>
