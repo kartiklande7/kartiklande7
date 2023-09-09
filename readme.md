@@ -7,7 +7,7 @@
 <!-- About Me Section -->
 <h2>About Me</h2>
 <p>🎓 Currently pursuing my Master's in Information Systems at Santa Clara University, I've had the privilege of gaining experience across different corners of the globe.</p>
-<p>💡 During my time at Gilead Sciences, I built a dynamic classification model to boost patient retention. As a Machine Learning Engineer at Quantiphi, I brought automation magic to various domains, from healthcare to manufacturing.</p>
+<p>💡 During my time at Gilead Sciences, I built a two stage classification model to boost patient retention. As a Machine Learning Engineer at Quantiphi, I brought automation magic to various domains, from healthcare to manufacturing.</p>
 <p>🚀 I'm also an AWS Certified Solutions Architect – Associate, passionate about architecting smart and efficient solutions. My work has earned me an Innovation Award and a Think Tank Award from Quantiphi.</p>
 
 <!-- Connect Section -->
